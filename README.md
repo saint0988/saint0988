@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Kidus Mesfin 👋
 
-<!--
-**saint0988/saint0988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student & Independent Researcher
 
-Here are some ideas to get you started:
+I am a System Thinker. I decompose complex domains into their underlying components, identify the structural patterns that repeat across them, and build systems that translate between them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Current Research: The Psychomorphic Compiler
+
+I am the creator of the Psychomorphic Compiler, a 16-layer software architecture that translates human life experience into validated engineering designs. It bridges the gap between human intuition and technical creation, allowing non-engineers to solve complex problems by answering questions about their own lives.
+
+· 📄 Published Paper: Read the Research on Zenodo
+· 🚀 Physics Demo: Live Web App
+· 🧬 Biology Demo: Live Web App
+
+🛠️ Tech Stack & Interests
+
+JavaScript | HTML/CSS | Python | Human-Computer Interaction | Cognitive Science | Knowledge Representation
+
+💡 Philosophy
+
+The barrier to technical creation is not intelligence; it is translation. I build systems that translate human experience into technical reality.
+
+
+
+
